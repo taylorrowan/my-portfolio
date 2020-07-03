@@ -1,3 +1,6 @@
+#My added dir and files
+.idea/*
+
 # Logs
 logs
 *.log
